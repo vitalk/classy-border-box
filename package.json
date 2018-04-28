@@ -2,7 +2,7 @@
   "name": "classy-border-box",
   "version": "0.1.0",
   "description": "Apply a natural box layout model globally",
-  "main": "generic.border-box.less",
+  "main": "border-box.less",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
