@@ -4,10 +4,10 @@ Apply a natural box layout model globally, but [allowing components to change](h
 
 ## Installation
 
-The recommended installation method is a [bower](http://bower.io).
+The recommended installation method is a [npm](https://www.npmjs.com/).
 
 ```shell
-bower install --save classy-border-box
+npm install --save-dev classy-border-box
 ```
 
 Variable | Description
