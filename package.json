@@ -1,6 +1,6 @@
 {
   "name": "classy-border-box",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Apply a natural box layout model globally",
   "main": "border-box.less",
   "scripts": {
